@@ -56,3 +56,6 @@ Heel grote gaten in je tuin
 Hoe noem je een auto die altijd vol zit? Een volvo!
 
 Q: Why can't you trust an atom? A: Because they make up everything.
+
+Q: What did one DNA strand say to the other DNA strand?
+A: "Do these genes make me look fat?"
