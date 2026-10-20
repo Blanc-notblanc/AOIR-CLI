@@ -62,4 +62,5 @@ A: "Do these genes make me look fat?"
 
 What do you call a magic dog? A labracadabrador
 
-Why do programmers prefer dark mode? Because light attracts bugs 
+Why do programmers prefer dark mode? Because light attracts bugs
+
