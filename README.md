@@ -37,3 +37,6 @@ What is an astronaut’s favorite part on a computer?
 
 What do you call a hamster with a top hat?
 Abrahamster Lincoln
+
+What’s the easiest way to find a public bathroom?
+Look up the IP address
