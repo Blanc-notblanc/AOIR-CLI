@@ -40,3 +40,6 @@ Abrahamster Lincoln
 
 What’s the easiest way to find a public bathroom?
 Look up the IP address
+
+Why is polyadenylation the spookiest cellular process?
+Because it makes mRNA go AAAAAAAAAAAAAAAAAAAA
