@@ -14,3 +14,7 @@ At the darth mall!
 
 Waarom gaan biologen en informatici zo goed samen?
 De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
+
+
+What’s the easiest way to find a public bathroom?
+Look up the IP address
