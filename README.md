@@ -37,3 +37,8 @@ What is an astronaut’s favorite part on a computer?
 
 What do you call a hamster with a top hat?
 Abrahamster Lincoln
+
+
+Why is polyadenylation the spookiest cellular process?
+
+Because it makes mRNA go AAAAAAAAAAAAAAAAAAAA
