@@ -52,3 +52,5 @@ Give a man a match, and he’ll be warm for a few hours. Set him on fire, and he
 
 Wat krijg je als een olifant en een mol een kindje krijgen?
 Heel grote gaten in je tuin
+
+Hoe noem je een auto die altijd vol zit? Een volvo!
