@@ -59,3 +59,5 @@ Q: Why can't you trust an atom? A: Because they make up everything.
 
 Q: What did one DNA strand say to the other DNA strand?
 A: "Do these genes make me look fat?"
+
+What do you call a magic dog? A labracadabrador
