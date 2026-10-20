@@ -43,3 +43,5 @@ Look up the IP address
 
 Why is polyadenylation the spookiest cellular process?
 Because it makes mRNA go AAAAAAAAAAAAAAAAAAAA
+
+Ken je de mop van de mummie? Ingewikkeld hé!
