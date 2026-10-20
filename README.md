@@ -47,3 +47,5 @@ Because it makes mRNA go AAAAAAAAAAAAAAAAAAAA
 Ken je de mop van de mummie? Ingewikkeld hé!
 
 Drake's favorite key is A minor. 
+
+Give a man a match, and he’ll be warm for a few hours. Set him on fire, and he’ll be warm for the rest of his life.
