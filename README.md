@@ -52,3 +52,7 @@ Give a man a match, and he’ll be warm for a few hours. Set him on fire, and he
 
 Wat krijg je als een olifant en een mol een kindje krijgen?
 Heel grote gaten in je tuin
+
+Q: What did one DNA strand say to the other DNA strand?
+A: "Do these genes make me look fat?"
+
